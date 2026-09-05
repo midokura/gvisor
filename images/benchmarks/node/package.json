@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^5.2.1",
     "hbs": "^4.0.4",
     "redis": "^3.1.2",
     "redis-commands": "^1.2.0",
